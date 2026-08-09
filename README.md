@@ -1,8 +1,8 @@
 # Hey there, I'm Anson! 👋
 
-**AI / ML Engineer** and **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
+**AI/ML Engineer & SDE** — Agentic AI, Computer Vision, LLM & RAG. Currently an **AI Engineer at Veynox Technologies (InfoBay.AI)** working on advanced AI-agent benchmarking, and a **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted cloud infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
 
-📍 Kollam, Kerala, India  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
+📍 Kerala, India — open to relocate (Canada / US / remote)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
 
 ## 🌐 Socials (How to Reach Me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ansonsajugeorge.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anson-saju-george) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Anson-Saju-George) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansonsaju@karunya.edu.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.anzon._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Beer_N_Roses)
@@ -10,12 +10,13 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE (AI & ML)**, Karunya Institute of Technology & Sciences, Coimbatore — Graduating **Jul 2026** (CGPA 7.2).
-- 🤖 I build practical AI systems across **Computer Vision**, **RAG**, **self-hosted AI infrastructure**, and **full-stack ML applications**.
+- 💼 **AI Engineer @ Veynox Technologies (InfoBay.AI)** *(current)* — advanced AI-agent benchmarking on Snorkel AI's Terminus / Terminal-Bench: scoring agent trajectories against rubrics/verifiers and failure-mode analysis.
+- 🎓 **B.Tech CSE (AI & ML)**, Karunya Institute of Technology & Sciences, Coimbatore — Graduated **2026** (CGPA 7.2).
+- 🤖 I build practical AI systems across **Computer Vision**, **RAG**, **agentic AI**, **self-hosted cloud infrastructure**, and **full-stack ML applications**.
 - 📄 **Two IEEE-indexed publications** — lead author at **IC2NC 2025**, co-author at **ICSPC 2023**.
 - 🧪 Research Intern @ **IIIT Kottayam** (2024) — DeepDream & neural-representation techniques on Kaggle & COCO datasets.
 - 🏆 Shortlisted — **Smart India Hackathon 2024** (the project later grew into the IC2NC 2025 publication).
-- 🖥️ I run my own **GPU home server** (Fedora + Docker + CUDA) serving live ML platforms, RAG systems, and this portfolio.
+- ☁️ I designed and run a **self-hosted multi-app cloud platform** (Hetzner · Docker Swarm · Dokploy · Traefik · Modal serverless GPU) serving **8 live AI apps** under one domain, with zero idle GPU cost.
 - 🌱 Strong ownership mindset — a builder who takes research ideas to working, deployed demos.
 
 ---
@@ -35,13 +36,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=000)
 
 ### Web & Backend: 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-2094F3?style=for-the-badge&logo=gunicorn&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### GPU & Systems: 
 ![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900) ![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Mixed Precision](https://img.shields.io/badge/Mixed_Precision-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
 ### DevOps & Infrastructure: 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=linux&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Dokploy](https://img.shields.io/badge/Dokploy-2E2E2E?style=for-the-badge&logo=dokploy&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white) ![Modal](https://img.shields.io/badge/Modal_(Serverless_GPU)-7FEE64?style=for-the-badge&logo=modal&logoColor=black) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=linux&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ### Cloud & Hardware/IoT: 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -76,11 +77,11 @@ Local-first RAG workbench comparing retrieval architectures (v0 → v3.1) over a
 >
 > 🌐 [Live Demo](https://ansonsajugeorge.online/context-forge/)
 
-### 🖥️ [Self-Hosted AI Infrastructure (Home Server)](https://github.com/Anson-Saju-George/home_server)
-GPU-enabled self-hosted platform on Fedora Linux (repurposed hardware, RTX 3060) serving multiple AI apps — WMS, deepfake detection, ContextForge, EEG demo, and portfolio — behind a single hardened gateway. Nginx reverse proxy routes per-port FastAPI services under one domain via systemd, with **Cloudflare Tunnel** (zero-trust TLS) and **Tailscale** mesh VPN. Hardened with key-only SSH on a non-standard port, UFW, Fail2Ban, automated security updates, and scheduled backups; runs CUDA inference services and self-hosted Nextcloud.
-> `Fedora` · `Docker` · `Nginx` · `CUDA` · `Cloudflare Tunnel` · `Tailscale` · `systemd` · `UFW` · `Fail2Ban`
+### ☁️ [Cloud Migration & Multi-App Deployment Platform](https://ansonsajugeorge.online) — *Hetzner + Modal*
+Designed and shipped a **provider-agnostic single-node cloud platform** hosting **8 self-built full-stack AI/ML apps** under one domain on a 2-vCPU Hetzner VPS. **Docker Swarm + Dokploy + Traefik** handle orchestration/routing; **Cloudflare Tunnel + Tailscale** give a **zero-public-inbound** security posture (public SSH closed); **Modal serverless GPU** runs on-demand inference. Heavy PyTorch/CUDA models run in **ephemeral GPU containers billed per-second with zero idle cost**, keeping the always-on web tier CPU-only and cutting production image size **~11× (4.9 GB → 430 MB)**. Each app ships as a single **non-root container** (FastAPI serving REST API + compiled React/Vite SPA) with **continuous deployment from Git**. Authored a reusable **Application-Build Playbook** (audit → secure-by-default → containerize → deploy) and ran a full security audit + remediation.
+> `Hetzner` · `Docker Swarm` · `Dokploy` · `Traefik` · `Cloudflare Tunnel` · `Tailscale` · `Modal` · `FastAPI` · `React/Vite`
 >
-> 💻 [Code](https://github.com/Anson-Saju-George/home_server)
+> 🌐 [Live Site](https://ansonsajugeorge.online) · 💻 [Home Server (origin)](https://github.com/Anson-Saju-George/home_server)
 
 ### 🧠 [SeizureMLP — EEG Seizure Detection & Analysis Demo](https://ansonsajugeorge.online/eeg_seizure_detection_app/)
 PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for binary seizure classification — **ROC-AUC 0.997, PR-AUC 0.950, best F1 0.953** with validation-tuned threshold and pos-weight class balancing. Full-stack analysis/playback interface (ROC/PR curves, threshold sweeps, confusion matrix, simulator) on a FastAPI backend. *(Research/demo only — not for clinical use.)*
@@ -93,12 +94,14 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ---
 
 ## 💼 Experience
-- **Research Intern — IIIT Kottayam** *(Jul 2024 · Onsite, Kottayam)* — Literature survey and hands-on study of Google DeepDream and neural-representation techniques; developed and tested models on Kaggle & COCO datasets, optimizing outputs to improve image quality, reduce artifacts, and enhance interpretability.
+- **AI Engineer — Veynox Technologies (InfoBay.AI)** *(Jun 2026 – Present · Remote, full-time)* — Advanced AI-agent benchmarking on Snorkel AI's Terminus / Terminal-Bench program: testing agentic task-environments and repositories, scoring agent trajectories against rubrics and pass/fail verifiers, and running failure-mode analysis to surface where automated agents break and why.
+- **Research Intern — IIIT Kottayam** *(May – Jul 2024 · Onsite, Kottayam)* — Literature survey and hands-on study of Google DeepDream and neural-representation techniques; developed and tested models on Kaggle & COCO datasets, optimizing outputs to improve image quality, reduce artifacts, and enhance interpretability.
 - **Placement Coordinator (Admin) — Career Connect, Karunya University** *(Jul 2025 – Dec 2025)* — Built a public request page integrated with the university's main site for students, faculty, and recruiters; coordinated placement activities and interview scheduling across stakeholders.
 
 ---
 
 ## 📜 Certifications
+- **IBM:** RAG and Agentic AI Specialization
 - **Microsoft Certified:** Azure AI Fundamentals
 - **NPTEL:** Applied Accelerated Artificial Intelligence · Google Cloud Computing Foundations
 - **Coursera / Duke University:** Introduction to Machine Learning
@@ -120,8 +123,8 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ![](https://nirzak-streak-stats.vercel.app/?user=Anson-Saju-George&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anson-Saju-George&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 📅 Contribution Activity
+[![Anson's GitHub contribution calendar](https://ghchart.rshah.org/409ba5/Anson-Saju-George)](https://github.com/Anson-Saju-George)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
